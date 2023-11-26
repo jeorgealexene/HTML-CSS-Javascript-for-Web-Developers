@@ -1,0 +1,91 @@
+/******** BASE STYLES ********/
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins", "sans-serif";
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #F4C2C2;
+    margin: 30px 10px;
+}
+
+h1 {
+    text-align: center;
+    color: #CC4E5C ;
+    margin-bottom: 15px;
+}
+
+.row {
+    width: 100%;
+}
+
+section {
+    background-color: #E8888A;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+section h2 {
+    color: white;
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    border-radius: 0 10px;
+    padding: 3px 10px;
+    position: relative;
+    width: max-content;
+    margin: 0;
+    margin-left: auto;
+}
+
+section p {
+    padding: 15px;
+}
+
+.necklaces {
+    background-color: #9E4244;
+}
+
+.bracelets {
+    background-color: #CD5C5C;
+}
+
+.rings {
+    background-color: #A94064;
+}
+
+
+
+/******** MEDIA QUERIES ********/
+
+/* desktop */
+@media (min-width: 992px) {
+    .col-lg-4 {
+        float: left;
+        width: 33.33%;
+    }
+}
+
+/* tablet */
+@media (min-width: 768px) and (max-width: 991px) {
+    .col-md-6 {
+        float: left;
+        width: 50%;
+    }
+
+    .col-md-12 {
+        float: left;
+        width: 100%;
+    }
+}
+
+/* mobile */
+@media (max-width: 767px) {
+    .col-sm-12 {
+        float: left;
+        width: 100%;
+    }
+}
