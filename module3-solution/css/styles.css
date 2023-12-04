@@ -66,9 +66,8 @@ header h1 {
     border: 0;
 }
 
-.row {
+.container {
     width: 100%;
-    margin: 0 auto;
 }
 
 .container .row section {
