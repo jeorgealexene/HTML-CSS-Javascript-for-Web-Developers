@@ -8,3 +8,5 @@ Kindly visit the following links to see my outputs:
 * [Module 3 Assignment](https://jeorgealexene.github.io/HTML-CSS-Javascript-for-Web-Developers/module3-solution/)
 
 * [Module 4 Assignment](https://jeorgealexene.github.io/HTML-CSS-Javascript-for-Web-Developers/module4-solution/)
+
+* [Module 5 Assignment](https://jeorgealexene.github.io/HTML-CSS-Javascript-for-Web-Developers/module5-solution/)
